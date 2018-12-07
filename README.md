@@ -1,0 +1,2 @@
+# spring-rabbitmq-delay-queue
+此项目使用了Spring MVC和RabbitMQ，主要使用到的RabbitMQ相关的特性有[Time-To-Live](https://www.rabbitmq.com/ttl.html)和[Dead Letter Exchanges](https://www.rabbitmq.com/dlx.html)，代码可运行，前提是安装好RabbitMQ客户端。
